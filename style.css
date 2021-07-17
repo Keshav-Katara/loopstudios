@@ -30,7 +30,7 @@ body {
   padding-right: 6rem;
   display: flex;
   flex-direction: column;
-  background-image: url(images/desktop/image-hero.jpg);
+  background-image: url(image-hero.jpg);
   background-size: cover;
 }
 
@@ -168,35 +168,35 @@ body {
 }
 
 .box--1 {
-  background-image: url(images/desktop/image-deep-earth.jpg);
+  background-image: url(image-deep-earth.jpg);
 }
 
 .box--2 {
-  background-image: url(images/desktop/image-night-arcade.jpg);
+  background-image: url(image-night-arcade.jpg);
 }
 
 .box--3 {
-  background-image: url(images/desktop/image-soccer-team.jpg);
+  background-image: url(image-soccer-team.jpg);
 }
 
 .box--4 {
-  background-image: url(images/desktop/image-grid.jpg);
+  background-image: url(image-grid.jpg);
 }
 
 .box--5 {
-  background-image: url(images/desktop/image-from-above.jpg);
+  background-image: url(image-from-above.jpg);
 }
 
 .box--6 {
-  background-image: url(images/desktop/image-pocket-borealis.jpg);
+  background-image: url(image-pocket-borealis.jpg);
 }
 
 .box--7 {
-  background-image: url(images/desktop/image-curiosity.jpg);
+  background-image: url(image-curiosity.jpg);
 }
 
 .box--8 {
-  background-image: url(images/desktop/image-fisheye.jpg);
+  background-image: url(image-fisheye.jpg);
 }
 
 /*======================FOOTER=====================*/
